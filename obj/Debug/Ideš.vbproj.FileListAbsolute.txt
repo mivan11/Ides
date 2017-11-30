@@ -1,0 +1,20 @@
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Ideš\obj\Debug\Ideš.Form1.resources
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Ideš\obj\Debug\Ideš.Resources.resources
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Ideš\obj\Debug\Ideš.vbproj.GenerateResource.Cache
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Ideš\bin\Debug\Ideš.exe.config
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Ideš\bin\Debug\Ideš.exe
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Ideš\bin\Debug\Ideš.pdb
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Ideš\bin\Debug\Ideš.xml
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Ideš\obj\Debug\Ideš.exe
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Ideš\obj\Debug\Ideš.xml
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Ideš\obj\Debug\Ideš.pdb
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Ideš\Ideš\bin\Debug\Ideš.exe.config
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Ideš\Ideš\bin\Debug\Ideš.exe
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Ideš\Ideš\bin\Debug\Ideš.pdb
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Ideš\Ideš\bin\Debug\Ideš.xml
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Ideš\Ideš\obj\Debug\Ideš.Form1.resources
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Ideš\Ideš\obj\Debug\Ideš.Resources.resources
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Ideš\Ideš\obj\Debug\Ideš.vbproj.GenerateResource.Cache
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Ideš\Ideš\obj\Debug\Ideš.exe
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Ideš\Ideš\obj\Debug\Ideš.xml
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Ideš\Ideš\obj\Debug\Ideš.pdb
